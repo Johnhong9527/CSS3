@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>imitate</title>
+  <link rel="stylesheet" href="css/imitate.css">
+  <script type="application/javascript" src="../../js/jquery.v3.2.1.js"></script>
+</head>
+<body>
+<div class="continer">
+  <div class="title">imitate</div>
+  说明:
+  类名为sky的div标签为父元素,其中定义了position的值为relative,
+  是为了其内三个子元素可以脱离文档流,也是动画执行的前置条件.
+  而overflow: hidden;的意思的超出固定宽高部分的内容隐藏.
+  这是为了避免动画执行的过程出现卡顿现象;
+  最后是z-index: -80;,目的使该动画以背景图的形象出现.
+  <pre>
+.sky {
+  background-color: #007fd5;
+  position: relative;
+  overflow: hidden;
+  z-index: -80;
+}
+  </pre>
+  <pre>
+下面是 clouds 的设定说明:
+<a href="http://www.w3school.com.cn/cssref/pr_animation-timing-function.asp">更具体的属性说明</a>
+.sky .clouds_one {
+  背景图
+  background: url("../images/cloud_one.png") no-repeat;
+  这里设置动画的 keyframe 执行时间 动画从头到尾的速度是相同 规定动画应该无限次播放
+  -webkit-animation: cloud_one 30s linear infinite;
+  -o-animation: cloud_one 30s linear infinite;
+  animation: cloud_one 30s linear infinite;
+
+  -webkit-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
+  -o-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+}
+设置动画执行时的动作
+@keyframes cloud_one {
+  0%{left:0;}
+  100%{left: -200%;}
+}
+  </pre>
+</div>
+<div class="sky">
+  <div class="clouds_one"></div>
+  <div class="clouds_two"></div>
+  <div class="clouds_three"></div>
+</div>
+</body>
+</html>
+<script>
+  (function () {
+    var sky = $('.sky');
+    var continer = $('.continer');
+    sky.height($(window).height())
+    sky.width($(window).width())
+    continer.height($(window).height() - 200)
+    continer.width($(window).width() - 200)
+    continer.css('left', 100)
+  })()
+</script>

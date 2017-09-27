@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18b19ae2-b778-4455-a562-76d21f19b3fc" name="Default" comment="" />
+    <list default="true" id="18b19ae2-b778-4455-a562-76d21f19b3fc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coded/云彩动画效果/css/imitate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coded/云彩动画效果/imitate.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coded/css0120.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeing/css0427.zip" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/coded/纯css3云彩动画效果/css/style.css" afterPath="$PROJECT_DIR$/coded/云彩动画效果/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/coded/纯css3云彩动画效果/images/cloud_one.png" afterPath="$PROJECT_DIR$/coded/云彩动画效果/images/cloud_one.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/coded/纯css3云彩动画效果/images/cloud_three.png" afterPath="$PROJECT_DIR$/coded/云彩动画效果/images/cloud_three.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/coded/纯css3云彩动画效果/images/cloud_two.png" afterPath="$PROJECT_DIR$/coded/云彩动画效果/images/cloud_two.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/coded/纯css3云彩动画效果/index.html" afterPath="$PROJECT_DIR$/coded/云彩动画效果/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,22 +28,39 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coded/纯css3云彩动画效果/index.html">
+        <entry file="file://$PROJECT_DIR$/coded/狐狸尾巴燃烧效果/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14">
-              <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            <state relative-caret-position="374">
+              <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/coded/纯css3云彩动画效果/css/style.css">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coded/跳动的音符/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="30" column="46" lean-forward="false" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+            <state relative-caret-position="352">
+              <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lanren.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/coded/跳动的音符/css/lanren.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="373">
+              <caret line="43" column="22" lean-forward="false" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="foxtail.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coded/狐狸尾巴燃烧效果/images/foxtail.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -39,7 +69,14 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>height</find>
+      <find>50</find>
     </findStrings>
+    <replaceStrings>
+      <replace>150</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -47,6 +84,9 @@
         <option value="$PROJECT_DIR$/js/jquery.v3.2.1.js" />
         <option value="$PROJECT_DIR$/coded/纯css3云彩动画效果/index.html" />
         <option value="$PROJECT_DIR$/coded/纯css3云彩动画效果/css/style.css" />
+        <option value="$PROJECT_DIR$/coded/纯css3云彩动画效果/css/initate.css" />
+        <option value="$PROJECT_DIR$/coded/纯css3云彩动画效果/imitate.html" />
+        <option value="$PROJECT_DIR$/coded/纯css3制作出来的狐狸尾巴燃烧效果/index.html" />
       </list>
     </option>
   </component>
@@ -61,6 +101,9 @@
     <option name="y" value="2" />
     <option name="width" value="1839" />
     <option name="height" value="1078" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -89,6 +132,24 @@
             <path>
               <item name="CSS" type="b2602c69:ProjectViewProjectNode" />
               <item name="CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="coded" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="coded" type="462c0819:PsiDirectoryNode" />
+              <item name="跳动的音符" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="coded" type="462c0819:PsiDirectoryNode" />
+              <item name="跳动的音符" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSS" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -101,6 +162,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/coded" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -124,24 +191,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506494209097</updated>
-      <workItem from="1506494210271" duration="1526000" />
+      <workItem from="1506494210271" duration="7618000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1526000" />
+    <option name="totallyTimeSpent" value="7618000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="81" y="2" width="1881" height="1086" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15485278" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33526683" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -164,17 +230,17 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/coded/纯css3云彩动画效果/images/cloud_two.png">
+    <entry file="file://$PROJECT_DIR$/coded/云彩动画效果/images/cloud_two.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coded/纯css3云彩动画效果/images/cloud_three.png">
+    <entry file="file://$PROJECT_DIR$/coded/云彩动画效果/images/cloud_three.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coded/纯css3云彩动画效果/images/cloud_one.png">
+    <entry file="file://$PROJECT_DIR$/coded/云彩动画效果/images/cloud_one.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -184,23 +250,68 @@
         <state relative-caret-position="268">
           <caret line="6556" column="34" lean-forward="false" selection-start-line="6556" selection-start-column="30" selection-end-line="6556" selection-end-column="34" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coded/纯css3云彩动画效果/index.html">
+    <entry file="file://$PROJECT_DIR$/coded/云彩动画效果/css/imitate.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14">
-          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        <state relative-caret-position="615">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="77" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coded/纯css3云彩动画效果/css/style.css">
+    <entry file="file://$PROJECT_DIR$/coded/云彩动画效果/imitate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="30" column="46" lean-forward="false" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+        <state relative-caret-position="263">
+          <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coded/云彩动画效果/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="22" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="188" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coded/云彩动画效果/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coded/狐狸尾巴燃烧效果/images/foxtail.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coded/狐狸尾巴燃烧效果/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coded/跳动的音符/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coded/跳动的音符/css/lanren.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="43" column="22" lean-forward="false" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
           <folding />
         </state>
       </provider>
