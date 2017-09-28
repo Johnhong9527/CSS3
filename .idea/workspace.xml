@@ -2,18 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18b19ae2-b778-4455-a562-76d21f19b3fc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coded/云彩动画效果/css/imitate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coded/云彩动画效果/imitate.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coded/css0120.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/codeing/css0427.zip" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/coded/纯css3云彩动画效果/css/style.css" afterPath="$PROJECT_DIR$/coded/云彩动画效果/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/coded/纯css3云彩动画效果/images/cloud_one.png" afterPath="$PROJECT_DIR$/coded/云彩动画效果/images/cloud_one.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/coded/纯css3云彩动画效果/images/cloud_three.png" afterPath="$PROJECT_DIR$/coded/云彩动画效果/images/cloud_three.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/coded/纯css3云彩动画效果/images/cloud_two.png" afterPath="$PROJECT_DIR$/coded/云彩动画效果/images/cloud_two.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/coded/纯css3云彩动画效果/index.html" afterPath="$PROJECT_DIR$/coded/云彩动画效果/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imitate/btn/btn.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coded/css0610.zip" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coded/跳动的音符/css/lanren.css" afterPath="$PROJECT_DIR$/coded/跳动的音符/css/lanren.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,41 +20,51 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coded/狐狸尾巴燃烧效果/index.html">
+        <entry file="file://$PROJECT_DIR$/coded/多种css3滚动下拉动画加载效果/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            <state relative-caret-position="211">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="32" />
+              <folding>
+                <element signature="e#278#40665#0" expanded="false" />
+                <marker date="1506579617779" expanded="false" signature="2821:5333" ph="..." />
+                <marker date="1506579617779" expanded="false" signature="5345:7855" ph="..." />
+                <marker date="1506579617779" expanded="false" signature="7867:10368" ph="..." />
+                <marker date="1506579617779" expanded="false" signature="10380:12890" ph="..." />
+                <marker date="1506579617779" expanded="false" signature="12902:15420" ph="..." />
+                <marker date="1506579617779" expanded="false" signature="15432:17972" ph="..." />
+                <marker date="1506579617779" expanded="false" signature="17984:20518" ph="..." />
+                <marker date="1506579617779" expanded="false" signature="20530:23042" ph="..." />
+                <marker date="1506579617779" expanded="false" signature="23054:25553" ph="..." />
+                <marker date="1506579617779" expanded="false" signature="25565:28074" ph="..." />
+                <marker date="1506579617779" expanded="false" signature="28086:30598" ph="..." />
+                <marker date="1506579617779" expanded="false" signature="30610:33111" ph="..." />
+                <marker date="1506579617779" expanded="false" signature="33123:35624" ph="..." />
+                <marker date="1506579617779" expanded="false" signature="35636:38141" ph="..." />
+                <marker date="1506579617779" expanded="false" signature="38153:40654" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coded/多种css3滚动下拉动画加载效果/css/example.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="49" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coded/跳动的音符/index.html">
+      <file leaf-file-name="btn.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/imitate/btn/btn.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+            <state relative-caret-position="351">
+              <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lanren.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/coded/跳动的音符/css/lanren.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="43" column="22" lean-forward="false" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="foxtail.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coded/狐狸尾巴燃烧效果/images/foxtail.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -87,6 +91,12 @@
         <option value="$PROJECT_DIR$/coded/纯css3云彩动画效果/css/initate.css" />
         <option value="$PROJECT_DIR$/coded/纯css3云彩动画效果/imitate.html" />
         <option value="$PROJECT_DIR$/coded/纯css3制作出来的狐狸尾巴燃烧效果/index.html" />
+        <option value="$PROJECT_DIR$/coded/跳动的音符/css/lanren.css" />
+        <option value="$PROJECT_DIR$/coded/多种css3滚动下拉动画加载效果/css/stroll.css" />
+        <option value="$PROJECT_DIR$/coded/多种css3滚动下拉动画加载效果/index2.html" />
+        <option value="$PROJECT_DIR$/coded/多种css3滚动下拉动画加载效果/index.html" />
+        <option value="$PROJECT_DIR$/coded/多种css3滚动下拉动画加载效果/css/example.css" />
+        <option value="$PROJECT_DIR$/imitate/btn/btn.html" />
       </list>
     </option>
   </component>
@@ -121,41 +131,23 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="CSS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="css3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="css3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CSS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="coded" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CSS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="coded" type="462c0819:PsiDirectoryNode" />
-              <item name="跳动的音符" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CSS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="coded" type="462c0819:PsiDirectoryNode" />
-              <item name="跳动的音符" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CSS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="css3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="css3" type="462c0819:PsiDirectoryNode" />
+              <item name="imitate" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,30 +184,32 @@
       <option name="presentableId" value="Default" />
       <updated>1506494209097</updated>
       <workItem from="1506494210271" duration="7618000" />
+      <workItem from="1506560336006" duration="7945000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7618000" />
+    <option name="totallyTimeSpent" value="15563000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="81" y="2" width="1881" height="1086" extended-state="6" />
+    <frame x="41" y="-5" width="1879" height="1085" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15485278" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33526683" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34106728" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -230,6 +224,35 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/coded/狐狸尾巴燃烧效果/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coded/跳动的音符/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coded/跳动的音符/css/lanren.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" column="22" lean-forward="false" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coded/狐狸尾巴燃烧效果/images/foxtail.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/coded/云彩动画效果/images/cloud_two.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -255,26 +278,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coded/云彩动画效果/css/imitate.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="77" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coded/云彩动画效果/imitate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/coded/云彩动画效果/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="22" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="188" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coded/多种css3滚动下拉动画加载效果/js/stroll.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coded/跳动的音符/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coded/狐狸尾巴燃烧效果/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coded/狐狸尾巴燃烧效果/images/foxtail.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coded/云彩动画效果/css/imitate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="77" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -287,31 +330,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coded/狐狸尾巴燃烧效果/images/foxtail.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coded/狐狸尾巴燃烧效果/index.html">
+    <entry file="file://$PROJECT_DIR$/coded/云彩动画效果/imitate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        <state relative-caret-position="307">
+          <caret line="36" column="45" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coded/跳动的音符/index.html">
+    <entry file="file://$PROJECT_DIR$/coded/多种css3滚动下拉动画加载效果/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="23" column="56" lean-forward="false" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coded/多种css3滚动下拉动画加载效果/css/stroll.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
-          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/coded/跳动的音符/css/lanren.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="43" column="22" lean-forward="false" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+        <state relative-caret-position="277">
+          <caret line="67" column="42" lean-forward="false" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coded/多种css3滚动下拉动画加载效果/css/example.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="49" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coded/多种css3滚动下拉动画加载效果/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <element signature="e#278#40665#0" expanded="false" />
+            <marker date="1506579617779" expanded="false" signature="2821:5333" ph="..." />
+            <marker date="1506579617779" expanded="false" signature="5345:7855" ph="..." />
+            <marker date="1506579617779" expanded="false" signature="7867:10368" ph="..." />
+            <marker date="1506579617779" expanded="false" signature="10380:12890" ph="..." />
+            <marker date="1506579617779" expanded="false" signature="12902:15420" ph="..." />
+            <marker date="1506579617779" expanded="false" signature="15432:17972" ph="..." />
+            <marker date="1506579617779" expanded="false" signature="17984:20518" ph="..." />
+            <marker date="1506579617779" expanded="false" signature="20530:23042" ph="..." />
+            <marker date="1506579617779" expanded="false" signature="23054:25553" ph="..." />
+            <marker date="1506579617779" expanded="false" signature="25565:28074" ph="..." />
+            <marker date="1506579617779" expanded="false" signature="28086:30598" ph="..." />
+            <marker date="1506579617779" expanded="false" signature="30610:33111" ph="..." />
+            <marker date="1506579617779" expanded="false" signature="33123:35624" ph="..." />
+            <marker date="1506579617779" expanded="false" signature="35636:38141" ph="..." />
+            <marker date="1506579617779" expanded="false" signature="38153:40654" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imitate/btn/btn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
           <folding />
         </state>
       </provider>

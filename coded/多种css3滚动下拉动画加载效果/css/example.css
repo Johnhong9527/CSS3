@@ -1,0 +1,118 @@
+.body {
+  position: absolute;
+  left: 80px;
+  top: 80px;
+  background-color: #007fd5;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  transition: transform 3s;
+  /*transform: scale(0.1);*/
+
+}
+
+.body:hover {
+  /*  animation: sky 2s alternate infinite;
+    animation-fill-mode : forwards;*/
+  transform: scale(2, 2.5);
+}
+
+@keyframes sky {
+  0% {
+    transform: scale(0.1);
+  }
+  100% {
+    transform: scale(0.5);
+  }
+}
+
+html, body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.button {
+  position: absolute;
+  top:15px;
+  left: 15px;
+  width: 150px;
+  font-size: 25px;
+  text-align: center;
+  padding: 5px;
+  color: #eeeeee;
+  background-color: #0096dd;
+  transition: 0.15s linear;
+}
+.button:hover{
+  top:14px;
+  left: 15px;
+  box-shadow: 2px 2px 2px black;
+}
+
+/*body {
+  background: #323232;
+  font-family: 'Lato', Times, 'Times New Roman', serif;
+  font-size: 16px;
+  color: #eee;
+  margin-bottom: 40px;
+  line-height: 1;
+}*/
+
+a {
+  color: cyan;
+}
+
+article {
+  display: inline-block;
+  margin: 20px;
+}
+
+h2 {
+  font-size: 16px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+small {
+  opacity: 0.6;
+  font-style: italic;
+  font-size: 14px;
+  margin-left: 5px;
+}
+
+/**
+ * List used for the demo page
+ */
+ul {
+  position: relative;
+  width: 230px;
+  height: 480px;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  list-style: none;
+  -webkit-perspective: 400px;
+  -moz-perspective: 400px;
+  -ms-perspective: 400px;
+  -o-perspective: 400px;
+  perspective: 400px;
+}
+
+ul li {
+  position: relative;
+  padding: 16px;
+  background: #eee;
+  color: #252525;
+  font-size: 18px;
+  z-index: 2;
+  -webkit-transform: translateZ(0px);
+  -moz-transform: translateZ(0px);
+  -ms-transform: translateZ(0px);
+  -o-transform: translateZ(0px);
+  transform: translateZ(0px);
+}
+
+ul li:nth-child(odd) {
+  background: #fff;
+}

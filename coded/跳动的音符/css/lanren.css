@@ -68,7 +68,7 @@ body{background-color: #efefef;}
   animation: waves 0.7s linear 0s infinite alternate;
   -webkit-animation: waves 0.7s linear 0s infinite alternate;
 }
-
+  /*alternate 执行顺序*/
 .demo-music #waves .li6 span {
   animation: waves 0.5s linear 0s infinite alternate;
   -webkit-animation: waves 0.5s linear 0s infinite alternate;
