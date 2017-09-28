@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>2D_rotate</title>
+  <style>
+    .title {
+      text-align: center;
+      line-height: 25px;
+    }
+
+    .container {
+      width: 500px;
+      height: 500px;
+      background-color: #26a69a;
+      box-shadow: 3px 3px 20px -2px black;
+      margin: 0 auto;
+      cursor: pointer;
+      position: relative;
+    }
+    .rotate{
+      position: absolute;
+      left: 150px;
+      top: 150px;
+      width: 200px;
+      height: 200px;
+      color: white;
+      line-height: 200px;
+      text-align: center;
+      background-color: #c62828;
+      -webkit-transition: all .8s;
+      -moz-transition: all .8s;
+      -ms-transition: all .8s;
+      -o-transition: all .8s;
+      transition: all .8s;
+    }
+    .container:hover .rotate{
+      -webkit-transform: rotate(180deg);
+      -moz-transform: rotate(180deg);
+      -ms-transform: rotate(180deg);
+      -o-transform: rotate(180deg);
+      transform: rotate(180deg);
+
+      left: 500px;
+    }
+  </style>
+</head>
+<body>
+<div class="title">说明:鼠标划过之后,出现2d图层折叠效果</div>
+<div class="container">
+  <div class="rotate">rotate</div>
+</div>
+</body>
+</html>
