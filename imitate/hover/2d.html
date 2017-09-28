@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>2D</title>
+  <style>
+    .title {
+      text-align: center;
+      line-height: 25px;
+    }
+
+    .container {
+      width: 500px;
+      height: 500px;
+      background-color: #26a69a;
+      box-shadow: 3px 3px 20px -2px black;
+      margin: 0 auto;
+      cursor: pointer;
+      position: relative;
+    }
+
+    .container > div {
+      position: absolute;
+      top: 150px;
+      left: 150px;
+    }
+
+    .container .row {
+      width: 200px;
+      height: 200px;
+      background-color: #c62828;
+      color: #000000;
+      line-height: 200px;
+      text-align: center;
+    }
+    .container .floor {
+      width: 0;
+      height: 0;
+      transition: all .3s;
+    }
+    /*animation*/
+    .container:hover .floor {
+      width: 200px;
+      height: 200px;
+      opacity: 0.8;
+      background-color: #FFFFFF;
+    }
+
+  </style>
+</head>
+<body>
+<div class="title">说明:鼠标划过之后,出现2d层叠效果</div>
+<div class="container">
+  <div class="row">row</div>
+  <div class="floor">floor</div>
+</div>
+</body>
+</html>
