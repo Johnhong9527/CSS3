@@ -1910,7 +1910,7 @@
                     }
                   }
 
-                  // Incorporate the offset, then check against cycle size
+                  // Incorporate the offset, then check against cycle.html size
                   diff -= last;
                   return diff === first || ( diff % first === 0 && diff / first >= 0 );
                 }
