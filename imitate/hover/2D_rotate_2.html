@@ -26,25 +26,28 @@
       left: 150px;
       top: 150px;
       width: 200px;
-      height: 200px;
+      height: 0;
       color: white;
       line-height: 200px;
       text-align: center;
       background-color: #c62828;
-      -webkit-transition: all .8s;
+/*      -webkit-transition: all .8s;
       -moz-transition: all .8s;
       -ms-transition: all .8s;
-      -o-transition: all .8s;
+      -o-transition: all .8s;*/
       transition: all .8s;
+      transform:matrix(1,0,0,1,0,0) rotate(-360deg);
+      height: 200px;
     }
     .container:hover .rotate{
-      -webkit-transform:matrix(0.786,0.8,-0.8,0.866,0,0);
-      -moz-transform:matrix(0.786,0.8,-0.8,0.866,0,0);
-      -ms-transform:matrix(0.786,0.8,-0.8,0.866,0,0);
-      -o-transform:matrix(0.786,0.8,-0.8,0.866,0,0);
-      transform:matrix(0.786,0.8,-0.8,0.866,0,0);
+/*      -webkit-transform:matrix(0.1,0,0,0.1,0,0) rotate(0deg);
+      -moz-transform:matrix(0.1,0,0,0.1,0,0) rotate(0deg);
+      -ms-transform:matrix(0.1,0,0,0.1,0,0) rotate(0deg);
+      -o-transform:matrix(0.1,0,0,0.1,0,0) rotate(0deg);*/
+      transform:matrix(1,0,0,1,0,0) rotate(360deg);
 
-      left: 500px;
+
+      /*left: 500px;*/
     }
   </style>
 </head>
@@ -54,5 +57,10 @@
 <div class="container">
   <div class="rotate">rotate</div>
 </div>
+<P>
+  matrix(a,b,c,d,e,f)
+  a 与 d 等于 scale(a ,d)
+  e 与 f 等于 translate(e,f)
+</P>
 </body>
 </html>
